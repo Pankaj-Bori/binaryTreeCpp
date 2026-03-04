@@ -7,9 +7,13 @@ C++ implementation of Binary Tree algorithms
 - Preorder Traversal
 - Postorder Traversal
 - Level Order Traversal
+
+  
 - Height of Binary Tree
 - count of nodes
 - sum of nodes
+
+- top view of a binary tree
 
 ## Language
 C++
