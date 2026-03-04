@@ -14,6 +14,7 @@ C++ implementation of Binary Tree algorithms
 - sum of nodes
 
 - top view of a binary tree
+- bottom view of a binary tree
 
 ## Language
 C++
